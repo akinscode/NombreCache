@@ -30,13 +30,13 @@ namespace NombreCache
                 }
             }
             Console.Clear();
-            // saisie du premier essai
+            // saisie du premier essai GAGAGAGAGAGA
             correct = false;
             while (!correct)
             {
                 try
                 {
-                    Console.Write("Entrez un essai = ");
+                    Console.Write("Entrez un essai GAGAGAGAGAGA= ");
                     essai = int.Parse(Console.ReadLine());
                     correct = true;
                 }
